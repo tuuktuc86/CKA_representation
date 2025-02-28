@@ -3,6 +3,10 @@
 This project is an experimental implementation of **Centered Kernel Alignment (CKA)**, as discussed in the paper:  
 [Similarity of Neural Network Representation Revisited](https://arxiv.org/abs/1905.00414).
 
+
+The source code is from [centered-kernel-alignment
+](https://github.com/RistoAle97/centered-kernel-alignment)
+
 ---
 
 ## 📌 Project Overview  
