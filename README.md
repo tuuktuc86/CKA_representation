@@ -52,4 +52,9 @@ For better readability, the scripts include detailed comments _(though written i
 
 ## 📜 Notes  
 
-- The `centered-kernel-alignment/` folder contains the actual implementation of **CKA**.  
+- The `centered-kernel-alignment/` folder contains the actual implementation of **CKA**.
+
+| Figure 1 | Figure 2 |
+|----------|----------|
+| ![Figure 1](https://github.com/tuuktuc86/CKA_representation/blob/main/equiv_output/Figure_1.png) | ![Figure 2](https://github.com/tuuktuc86/CKA_representation/blob/main/equiv_output/Figure_2.png) |
+---
